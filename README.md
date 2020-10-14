@@ -11,9 +11,9 @@ For this project, you will train an agent to navigate (and collect bananas!) in 
 
 ![Trained Agent][image1]
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
+A `reward of +1 is provided for collecting a yellow banana, and a reward of -1` is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
-The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
+The `state space has 37 dimensions` and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
 - **`0`** - move forward.
 - **`1`** - move backward.
 - **`2`** - turn left.
@@ -37,9 +37,6 @@ The task is episodic, and in order to solve the environment, your `agent must ge
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-### Instructions
+### Solution
 
-
-
-### (Optional) Challenge: Learning from Pixels
-
+Check out the Navigation notebook for implmentation and REPORT for furher information and results.
