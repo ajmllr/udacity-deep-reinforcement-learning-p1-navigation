@@ -1,0 +1,8 @@
+.vscode/
+.temp/
+**/__pycache__
+__pycache__/
+*.py[cod]
+python
+
+Banana_Windows_x86_64
